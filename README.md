@@ -1,3 +1,5 @@
 # RiceCRMProyect
 Repository for rice proyect
-Estoy probando esta vaina
+Estoy probando esto 
+Script para extraer promotores de un genoma
+---> .java
